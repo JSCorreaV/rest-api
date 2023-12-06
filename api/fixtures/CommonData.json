@@ -1,0 +1,5 @@
+{
+  "baseUrl": "https://todo.pixegami.io/",
+  "succesfulMessage": "Succesfull Response!",
+  "nonSuccesfulMessage": "Connection Failed :c"
+}

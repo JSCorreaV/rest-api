@@ -1,0 +1,8 @@
+[project]
+name = "REST-API"
+version = "0.0.1"
+authors = [
+  { name="DavidH"},
+]
+description = "A small package"
+readme = "README.md"
