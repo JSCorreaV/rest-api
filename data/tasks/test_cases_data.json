@@ -1,0 +1,15 @@
+{
+  "test_cases": {
+    "non_existent_task_id": "88238jfyf111",
+    "sql_injection_queries": {
+      "content": "Inoffensive string --",
+      "user_id": "&#x53;ELECT user_id, type FROM users WHERE type = admin"
+    },
+    "keys_are_misspelled": {
+      "constant": "Lorem ipsum dolor sit amet",
+      "used_id": "123987"
+    },
+    "empty_value": "",
+    "bool_as_string": "Random string"
+  }
+}

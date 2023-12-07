@@ -47,8 +47,6 @@ class Task:
         return delete_task_request
 
     def get(self):
-        print(self.body)
-        print(self.response)
         get_task_request = get(f'{endpoints["GET_TASK"]}{self.response["task_id"]}').json()
         print(get_task_request)
         return get_task_request
