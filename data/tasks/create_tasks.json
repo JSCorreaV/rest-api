@@ -1,0 +1,54 @@
+{
+  "tasks": [
+    {
+      "content": "Implement a scalable and efficient database architecture",
+      "user_id": "17",
+      "is_done": false
+    },
+    {
+      "content": "Master a high-level programming language (e.g. Python, Java, C++)",
+      "user_id": "17",
+      "is_done": false
+    },
+    {
+      "content": "Stay updated with the latest industry trends and technologies",
+      "user_id": "17",
+      "is_done": false
+    },
+    {
+      "content": "Develop excellent problem-solving and analytical skills",
+      "user_id": "17",
+      "is_done": false
+    },
+    {
+      "content": "Build a strong foundation in data structures and algorithms",
+      "user_id": "23",
+      "is_done": false
+    },
+    {
+      "content": "Practice continuous learning and self-improvement",
+      "user_id": "17",
+      "is_done": false
+    },
+    {
+      "content": "Network and collaborate with other top professionals in the field",
+      "user_id": "17",
+      "is_done": false
+    },
+    {
+      "content": "Lead and manage complex projects effectively",
+      "user_id": "17",
+      "is_done": false
+    },
+    {
+      "content": "Communicate and present technical concepts clearly and concisely",
+      "user_id": "23",
+      "is_done": false
+    },
+    {
+      "content": "Stay committed to high standards of professionalism and ethics",
+      "user_id": "23",
+      "is_done": false
+    }
+  ]
+}
